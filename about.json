@@ -4,25 +4,39 @@
   "license_url": "https://github.com/discourse/discourse-mint-theme/blob/main/LICENSE",
   "color_schemes": {
     "mint-light": {
-      "primary": "454545",
-      "secondary": "F6FBFC",
-      "tertiary": "4F8A7C",
-      "header_background": "ffffff",
-      "header_primary": "111111",
-      "selected": "e3efec",
-      "hover": "e3efec"
+      "primary": "1c1c1c",
+      "secondary": "f2f2f2",
+      "tertiary": "6442ff",
+      "quaternary": "7e8b93",
+      "header_background": "f9fcff",
+      "header_primary": "122b43",
+      "selected": "e1ebfb",
+      "hover": "f2f2f2",
+      "highlight": "e6cb37",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "e63d3d"
     },
     "mint-dark": {
-      "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "4F8A7C",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "b2b235",
-      "selected": "1c302b",
-      "hover": "1c302b"
+      "primary": "d0d0d0",
+      "secondary": "0e0d14",
+      "tertiary": "8e75ff",
+      "quaternary": "e34a4a",
+      "header_background": "0f0e13",
+      "header_primary": "d0d0d0",
+      "selected": "8e75ff",
+      "hover": "ffffff",
+      "highlight": "ecd347",
+      "danger": "e34a4a",
+      "success": "71de56",
+      "love": "8e75ff"
     }
   },
-  "components": ["https://github.com/discourse/discourse-search-banner.git"],
-  "screenshots": ["screenshots/light.png", "screenshots/dark.png"]
+  "components": [
+    "https://github.com/discourse/discourse-search-banner.git"
+  ],
+  "screenshots": [
+    "screenshots/light.png",
+    "screenshots/dark.png"
+  ]
 }
