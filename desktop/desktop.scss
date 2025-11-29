@@ -26,7 +26,7 @@ body:not(.navigation-categories, .navigation-topics) #main-outlet {
   width: 500px;
   height: 500px;
   border-radius: 2000px;
-  background: radial-gradient(circle, #6a5acd, #e1c0f9);;
+  background: var(--color-circle-gradient);
   right: 1px;
   top: -57px;
 }
