@@ -4,7 +4,7 @@
   "license_url": "https://github.com/discourse/discourse-mint-theme/blob/main/LICENSE",
   "color_schemes": {
     "mint-light": {
-      "primary": "ffffff",
+      "primary": "1c1c1c",
       "secondary": "f2f2f2",
       "tertiary": "6442ff",
       "quaternary": "7e8b93",
